@@ -1,0 +1,2 @@
+LAPORAN INVENTARIS TOKO
+Program inventaris berhasil dijalankan.
